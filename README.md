@@ -15,4 +15,5 @@ more useful than pulling them out seperately, and navigating through them.
 Sorry, I can't be held liable for any problems this script may cause to your system,
 even though it's highly unlikely.
 
-    Usage: sh output.sh www.domain.com
+####Usage
+    sh output.sh www.domain.com
